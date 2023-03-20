@@ -4,7 +4,7 @@ This networking software at its works like an extremely simple remote data stora
 
 When choosing to write this program, I did not intend to write a data storage and retrieval client-server model, my only goal was to gain a better understanding of networking, its associated protocols, and how I could implement them in my own software. This resulted in me first learning about socket programming in python, implementing a very basic model that connected a server and a client, and finally developing out this basic model to offer more robust ways for the client to interact with the server.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VbiEs14mn5M)
 
 # Network Communication
 
@@ -27,7 +27,6 @@ Language and Libraries
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [youtube.com](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 * [realpython.com](https://realpython.com/python-sockets/)
 * [geeksforgeeks.com](https://www.geeksforgeeks.org/append-to-json-file-using-python/)
